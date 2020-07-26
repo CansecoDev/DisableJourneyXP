@@ -1,0 +1,16 @@
+{
+	"name": "Disable Journey XP",
+	"description": "Disable Journey XP is a mod for Conan Exiles that disables the effortless journey experience gains",
+	"changeNote": "v1.0.1\n- Disables all base game journey experience gains",
+	"author": "C4N",
+	"authorUrl": "https://github.com/srcanseco/DisableJourneyXP",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2178261507",
+	"steamVisibility": 2,
+	"folderName": "DisableJourneyXP",
+	"revisionNumber": 233751,
+	"snapshotId": 25795
+}
